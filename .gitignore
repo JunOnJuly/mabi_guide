@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,react,flask,windows,linux
 
 ### Personal ###
-api_keys/
+
 
 ### Flask ###
 instance/*
